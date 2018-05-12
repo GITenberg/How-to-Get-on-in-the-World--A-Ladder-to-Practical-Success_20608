@@ -1,0 +1,36 @@
+_repo: How-to-Get-on-in-the-World--A-Ladder-to-Practical-Success_20608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calhoun, A. R. (Alfred Rochefort)
+    aliases:
+    - Calhoun, Alfred R.
+    - Calhoun, Alfred Rochefort
+    - Rochefort, Alfred
+    birthdate: 1844
+    gutenberg_agent_id: '1981'
+    url: http://www.gutenberg.org/2009/agents/1981
+description: It has been said that "Nothing Succeeds Like Success." What is Success?
+  If we consult the dictionaries, they will give us the etymology of this much used
+  word, and in general terms the meaning will be "the accomplishment of a purpose."
+  But as the objects in nearly every life differ, so success cannot mean the same
+  thing to all men. The artist's idea of success is very different from that of the
+  business man, and the scientist differs from both, as does the statesman from all
+  three ...
+gutenberg_issued: '2007-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20608'
+  lccn: '10012284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Success'
+title: 'How to Get on in the World: A Ladder to Practical Success'
+url: http://www.gutenberg.org/ebooks/20608
